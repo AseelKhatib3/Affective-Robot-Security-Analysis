@@ -81,5 +81,3 @@ These factors can increase the risk of **emotional manipulation attacks**.
 * 👩‍💻 **Rand Tabakhna**
 
 
-* 👩‍💻 Aseel Khatib
-* 👩‍💻 Rand Tabakhna
