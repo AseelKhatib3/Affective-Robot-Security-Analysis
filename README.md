@@ -61,11 +61,6 @@ These factors can increase the risk of **emotional manipulation attacks**.
 
 ---
 
-## 📂 Repository Content
-
-* 📄 `Report_Security_Project.pdf` – Full project report
-
----
 
 ## 🎓 Course Information
 
